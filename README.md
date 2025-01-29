@@ -33,6 +33,7 @@
 2. Standard C++ Lipraries (iostream,fstream,vector,iomanip,string)
 - code Clone
 ~~~
+git clone https://github.com/TariqCodeBit/Bank-
 
 ~~~
 

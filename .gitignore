@@ -1,0 +1,12 @@
+ # Visual Studio add-ons.
+*.obj
+*.exe
+*.ilk
+*.pdb
+*.log
+*.tlog
+*.suo
+*.db
+.vs/
+x64
+*.user

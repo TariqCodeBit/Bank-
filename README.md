@@ -2,9 +2,9 @@
 - A console-based application built with C++ to manage client records.
  This application will use a text file for data storage instead of a database..
 ## Main Menu 
-- ![Screenshot]() 
+- ![Menu Client](https://github.com/TariqCodeBit/photoProfile/blob/main/Screenshot%202025-01-29%20211334.png) 
 ## Example Client Entry
-- ![sf]()
+- ![Ex add Data Client](https://github.com/TariqCodeBit/photoProfile/blob/main/Screenshot%202025-01-29%20213407.png)
 
 ## Features
 
@@ -26,7 +26,7 @@
   - #//# delimiter-based storage format
   ### File Structure
     
-- ![File Format]()
+- ![File Format](https://github.com/TariqCodeBit/photoProfile/blob/main/Screenshot%202025-01-29%20213503.png)
 
 ## Requirements
 1. C++ Compiler

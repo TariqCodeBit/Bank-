@@ -32,24 +32,10 @@ This system allows performing transactions, managing client data, and controllin
   - #//# delimiter-based storage format
   ### File Structure 📂
     - 📄 Clients.txt 🏦 – Stores client records 📜
-- ![File Format clients](https://githin/Screenshot%202025-01-29%20213503.png)
+      - "#//#"
     - 📄 Users.txt 🔐 – Stores user credentials & permissions 🛡️
-- ![file format Users]()
-### Security Features
-- Login authentication system
-- Role-based access control
-- Permission levels using bitmasking
+      - "#//#"
 
-## Permissions System
-The system uses bitwise permissions:
-- `Full Access (-1)`: All permissions
-- `Show Clients (1)`: View client list
-- `Add Clients (2)`: Add new clients
-- `Delete Clients (4)`: Remove clients
-- `Update Clients (8)`: Modify client info
-- `Find Clients (16)`: Search clients
-- `Transactions (32)`: Deposit/Withdraw
-- `Manage Users (64)`: User administration
 
 ## Requirements
 1. C++ Compiler

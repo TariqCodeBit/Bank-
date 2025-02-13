@@ -1,11 +1,12 @@
 # Client Management System
 - A C++ console application for managing 🏦 banking clients and system users with role-based permissions. 
 This system allows performing transactions, managing client data, and controlling user access levels.
-## Main Menu 📜 
-- ![Menu Client](https://github.com/TariqCodeBit/photoProfile/blob/main/Screenshot%202025-01-29%20211334.png) 
-## Example Client Entry
-- ![Ex add Data Client](https://github.com/TariqCodeBit/photoProfile/blob/main/Screenshot%202025-01-29%20213407.png)
-
+## Main Menue 📜 
+- ![Menu Client](https://github.com/TariqCodeBit/photoProfile/blob/main/Screenshot%202025-02-13%20150648.png) 
+## Transactions Menue 📜 
+- ![Menue Transactions](https://github.com/TariqCodeBit/photoProfile/blob/main/Screenshot%202025-02-13%20150710.png)
+## Manage Menue 📜 
+- ![Menue Manage](https://github.com/TariqCodeBit/photoProfile/blob/main/Screenshot%202025-02-13%20150729.png)
 ## Features
 
 - **Client Management**

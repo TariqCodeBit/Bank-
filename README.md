@@ -45,6 +45,9 @@ This system allows performing transactions, managing client data, and controllin
 git clone https://github.com/TariqCodeBit/Bank-
 
 ~~~
+## Author
+- The Game was developed by **Tarek**.
+
 
 
    
